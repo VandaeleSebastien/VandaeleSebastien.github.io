@@ -1,0 +1,17 @@
+nav {
+    border-bottom: 2px solid cornflowerblue;
+  }
+
+  #weatherMap
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #weatherMap img
+  {
+    display: block;
+    max-width: 90%;
+    height: auto;
+  }
